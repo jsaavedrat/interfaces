@@ -97,9 +97,11 @@ export default {
           icon: 'icon-cursor',
         },
         {
-          name: 'OPCIONES',
-          url: '/INGRESAURL',
+        {
+          name: 'Situacion Academica',
+          url: '/datos/situacion-academico',
           icon: 'icon-cursor',
+        },
         },
         {
           name: 'OPCIONES',
